@@ -16,7 +16,7 @@
 
 ## Sobre o Projeto
 
-Em Breve...
+Inv.Sort é uma aplicação de controle de estoque, que permite uma gestão rápida e inteligente de seu inventário. Inclui o registro e controle de produtos, fornecedores, movimentações de estoque e a geração de relatórios que auxiliam na tomada de decisões.
 
 Status do Projeto: **Em Andamento...**
 
@@ -28,10 +28,10 @@ Status do Projeto: **Em Andamento...**
 
 | Sprint | Previsão de entrega | Status |
 |:--:|:----------:|:-------------------|
-| 01 | 29/09/2023 | Em Andamento... |
-| 02 | ??/??/2023 | Não Iniciada |
-| 03 | ??/??/2023 | Não Iniciada |
-| 04 | ??/??/2023 | Não Iniciada |
+| 01 | 29/09/2024 | Em Andamento... |
+| 02 | 20/10/2024 | Não Iniciada |
+| 03 | 10/11/2024 | Não Iniciada |
+| 04 | 01/12/2024 | Não Iniciada |
 
 → [Voltar ao topo](#top)
 
@@ -64,7 +64,15 @@ Status do Projeto: **Em Andamento...**
 
 ## Tecnologias
 
-Node / Express / React / Figma / MySQL / Prisma / Tailwind
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+
+<br />
 
 → [Voltar ao topo](#top)
 
