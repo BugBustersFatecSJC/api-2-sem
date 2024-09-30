@@ -28,7 +28,7 @@ Status do Projeto: **Em Andamento...**
 
 | Sprint | Previsão de entrega | Status |
 |:--:|:----------:|:-------------------|
-| 01 | 29/09/2024 | [Concluída](./docs/Sprint-1/sprint-1.md) |
+| 01 | 29/09/2024 | [Concluída](./docs/sprint-1/sprint-1.md) |
 | 02 | 20/10/2024 | Não Iniciada |
 | 03 | 10/11/2024 | Não Iniciada |
 | 04 | 01/12/2024 | Não Iniciada |
