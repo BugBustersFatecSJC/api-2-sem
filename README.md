@@ -44,7 +44,6 @@ Status do Projeto: **Em Andamento...**
 | 1 | Alta | Como administrador, eu quero diferenciar níveis de acesso (administrador, gerente, funcionário) para gerenciar permissões. | 8 | 1 | Segurança de Dados, Controle de Acessos |
 | 2 | Alta | Como funcionário, eu quero cadastrar produtos com todos os detalhes (código, nome, descrição, etc.) para manter o controle de estoque. | 10 | 1 | Informações Completas e Precisas |
 | 3 | Média | Como administrador, eu quero cadastrar categorias de produtos para organizar a navegação e busca no sistema. | 5 | 1 | Organização Hierárquica dos Produtos |
-| 4 | Alta | Como administrador, eu quero um protótipo no Figma do sistema para visualizar o design e a navegação. | 4 | 1 | Aprovação do Design e Navegabilidade |
 | 5 | Média | Como administrador, eu quero um gráfico geral dos dados para análise de desempenho e insights. | 6 | 1 | Visão Geral e Monitoramento de Desempenho |
 | 6 | Média | Como funcionário, eu quero registrar locais, fornecedores e setores para associar informações no cadastro de produtos. | 7 | 2 | Integridade e Consistência das Informações |
 | 7 | Alta | Como gerente, eu quero ferramentas de análise de tendências para prever demandas futuras e planejar compras. | 9 | 2 | Controle de Movimentações e Responsável |
