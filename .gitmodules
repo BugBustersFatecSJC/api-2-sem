@@ -1,6 +1,8 @@
 [submodule "front-end"]
 	path = front-end
 	url = https://github.com/BugBustersFatecSJC/inv.sort-front.git
+	branch = main
 [submodule "back-end"]
 	path = back-end
 	url = https://github.com/BugBustersFatecSJC/inv.sort-back.git
+	branch = main
