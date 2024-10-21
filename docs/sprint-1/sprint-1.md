@@ -1,8 +1,12 @@
-## MVP
+## User Stories
 
-<img src="./mvp-sprint-1.gif">
-    
-## Sprints
+| Rank | Prioridade | User Story | Estimativa (UCP) | Requisitos do Parceiro |
+|------|------------|------------|------------------|------------------------|
+| 1 | Alta | Como administrador, eu quero diferenciar níveis de acesso (administrador, gerente, funcionário) para gerenciar permissõs. | 05 UCP | Gerenciamento geral, controle de acessos, segurança dos dados. |
+| 2 | Alta | Como funcionário, eu quero gerenciar produtos com todos os detalhes (cóigo, nome, descrição, etc.) para manter o controle de estoque. | 07 UCP | Informações completas e precisas. |
+| 3 | Alta | Como administrador, eu quero cadastrar categorias de produtos para organizar a navegação e busca no sistema. | 04 UCP | Organização hierárquica dos produtos. |
+
+## Sprint Backlog
 
 | Descrição | Responsável | Previsão (h) |
 |-----------|-------------|--------------|
@@ -18,3 +22,7 @@
 | Criar botão de login/limpar seleção | Pedro | 1h |
 | Criar inputs na tela de login | Pedro | 1h |
 | Criar prototipo do CRUD | Avya | 16h |
+
+## MVP
+
+<img src="./mvp-sprint-1.gif">
