@@ -20,7 +20,7 @@ Inv.Sort é uma aplicação de controle de estoque, que permite uma gestão ráp
 
 Status do Projeto: **Em Andamento...**
 
-[Ir para o repositório do Back-End](https://github.com/BugBustersFatecSJC/inv.sort-back)
+[Ir para o repositório do Back-End](https://github.com/BugBustersFatecSJC/inv.sort-back) | 
 [Ir para o repositório do Front-End](https://github.com/BugBustersFatecSJC/inv.sort-front)
 
 <br />
