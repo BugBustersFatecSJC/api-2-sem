@@ -7,6 +7,7 @@
     <a href="#entrega">Entregas</a>  &nbsp |&nbsp &nbsp  
     <a href="#backlog">Backlogs / User Stories</a> &nbsp |&nbsp &nbsp  
     <a href="#tech">Tecnologias</a>  &nbsp |&nbsp &nbsp 
+     <a href="https://github.com/BugBustersFatecSJC/inv.sort/tree/main/docs">Docs</a>  &nbsp |&nbsp &nbsp 
     <a href="#team">Equipe</a>
 </p>
 
