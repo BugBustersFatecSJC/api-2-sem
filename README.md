@@ -16,7 +16,7 @@
 
 ## Sobre o Projeto
 
-Inv.Sort é uma aplicação de controle de estoque, que permite uma gestão rápida e inteligente de seu inventário. Inclui o registro e controle de produtos, fornecedores, movimentações de estoque e a geração de relatórios que auxiliam na tomada de decisões.
+Inv.Sort é uma aplicação de controle de estoque, que permite uma gestão rápida e inteligente de seu inventário. O inv.sort resolve problemas como análise de tendências, gerenciamento e cadastro de categorias e produtos, controle de entrada e saida  tudo isso de forma prática e intuitiva.
 
 Status do Projeto: **Em Andamento...**
 
