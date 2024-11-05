@@ -2,6 +2,8 @@
 
 # Inv.Sort
 
+![banner](./img/banner.png)
+
 <p align="center">
     <a href="#about">Sobre</a>  &nbsp |&nbsp &nbsp  
     <a href="#entrega">Entregas</a>  &nbsp |&nbsp &nbsp  
