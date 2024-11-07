@@ -17,7 +17,7 @@
 
 <span id="about">
 
-## Sobre o Projeto
+## 📦 Sobre o Projeto
 
 Inv.Sort é uma aplicação de controle de estoque, que permite uma gestão rápida e inteligente de seu inventário. O inv.sort resolve problemas como análise de tendências, gerenciamento e cadastro de categorias e produtos, controle de entrada e saída – tudo de forma prática e intuitiva.
 
@@ -25,6 +25,12 @@ Status do Projeto: **Em Andamento...**
 
 [🔗 Ir para o repositório do Back-End](https://github.com/BugBustersFatecSJC/inv.sort-back) | 
 [🔗 Ir para o repositório do Front-End](https://github.com/BugBustersFatecSJC/inv.sort-front)
+
+<br />
+
+## ⚠️ Problemas do Cliente
+
+O cliente enfrenta dificuldades em gerenciar o estoque de maneira eficiente, com problemas no registro de movimentações e controle de produtos, o que gera inconsistências e falta de visibilidade nos níveis de estoque. Além disso, a ausência de relatórios atualizados dificulta a tomada de decisões estratégicas e o planejamento adequado, impactando diretamente a operação e o atendimento às demandas.
 
 <br />
 
