@@ -7,7 +7,7 @@
 <p align="center">
     <a href="#about">📖 Sobre</a>  &nbsp |&nbsp &nbsp  
     <a href="#entrega">🚀 Entregas</a>  &nbsp |&nbsp &nbsp  
-    <a href="#backlog">📋 Backlogs / User Stories</a> &nbsp |&nbsp &nbsp  
+    <a href="#backlog">📋 Backlog / User Stories</a> &nbsp |&nbsp &nbsp  
     <a href="#tech">💻 Tecnologias</a>  &nbsp |&nbsp &nbsp 
     <a href="https://github.com/BugBustersFatecSJC/inv.sort/tree/main/docs">📄 Docs</a>  &nbsp |&nbsp &nbsp 
     <a href="#team">👥 Equipe</a>
@@ -45,7 +45,7 @@ Status do Projeto: **Em Andamento...**
 
 <span id="backlog">
 
-## 📋 Backlogs / User Stories
+## 📋 Backlog / User Stories
 
 | Rank | Prioridade | User Story | Estimativa | Sprint | Requisitos do Parceiro |
 |:----:|:----------:|:----------:|:----------:|:------:|:-----------------------|
