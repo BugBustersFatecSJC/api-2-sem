@@ -109,7 +109,7 @@ O cliente enfrenta dificuldades em gerenciar o estoque de maneira eficiente, com
 
 | Nome | Função | GitHub | LinkedIn |
 |------|--------|--------|----------|
-| João Góes | Product Owner | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](www.linkedin.com/in/joaovitorgoes) |
+| João Góes | Product Owner | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](https://www.linkedin.com/in/joaovitorgoes) |
 | Pedro Prevides | Scrum Master | [GitHub](https://github.com/GalaxyBurst) | [LinkedIn](https://www.linkedin.com/in/pedro-prevides-87a0b71a8/) |
 | Avya Alex | Dev Team | [GitHub](https://github.com/AvyaAquino) | [LinkedIn](https://www.linkedin.com/in/avya-candido-598b5228a/) |
 | Carlos Intrieri | Dev Team | [GitHub](https://github.com/carlosintrieri) | [LinkedIn](https://www.linkedin.com/in/carlosintrieri) |
