@@ -21,7 +21,7 @@
 | **Tarefa**                                      | **Status**   | **UCP** | **Responsável** |
 |-------------------------------------------------|--------------|---------|-----------------|
 | Paginação buy and sell                          | Concluído    | 5       | Davi Marinho       |
-| Botão gerenciar                                 | Concluído    | 1       | Gabriel Guimarães  |
+| Botão gerenciar                                 | Concluído    | 2       | Gabriel Guimarães  |
 | Modal do buy and sell                           | Concluído    | 5       | Daniel Piloto      |
 | Read me da sprint                               | Concluído    | 2       | João Góes          |
 | Melhorar as querys do analytics                 | Concluído    | 8       | Avya Alex          |

@@ -10,18 +10,18 @@
 
 | **Tarefa**                                         | **Status**   | **UCP** | **Responsável**      |
 |----------------------------------------------------|--------------|---------|----------------------|
-| Criar modelo lógico do banco de dados              | Concluído    | 6       | Davi Marinho         |
-| Criar modelo físico de banco de dados              | Concluído    | 10      | Davi Marinho         |
-| Criar protótipo no Figma                           | Concluído    | 16      | Victor Bessa / João Suzuki |
-| Criar repositório no GitHub                        | Concluído    | 1       | Pedro Silva / João Suzuki |
-| Criar README no GitHub                             | Concluído    | 4       | Pedro Silva          |
-| Criar protótipo de requisição de login             | Concluído    | 16      | Carlos Intrieri      |
-| Criar o fetch de controle de usuário               | Concluído    | 16      | Gabriel Guimarães / Daniel Piloto |
-| Criar tela de Login                                | Concluído    | 1       | João Góes            |
-| Colocar logo na tela de login                      | Concluído    | 1       | João Suzuki          |
-| Criar botão de login/limpar seleção                | Concluído    | 1       | Pedro Silva          |
-| Criar inputs na tela de login                      | Concluído    | 1       | Pedro Silva          |
-| Criar protótipo do CRUD                            | Concluído    | 16      | Avya Alex            |
+| Criar modelo lógico do banco de dados              | Concluído    | 5       | Davi Marinho         |
+| Criar modelo físico de banco de dados              | Concluído    | 13      | Davi Marinho         |
+| Criar protótipo no Figma                           | Concluído    | 13      | Victor Bessa / João Suzuki |
+| Criar repositório no GitHub                        | Concluído    | 2       | Pedro Silva / João Suzuki |
+| Criar README no GitHub                             | Concluído    | 2       | Pedro Silva          |
+| Criar protótipo de requisição de login             | Concluído    | 13      | Carlos Intrieri      |
+| Criar o fetch de controle de usuário               | Concluído    | 13      | Gabriel Guimarães / Daniel Piloto |
+| Criar tela de Login                                | Concluído    | 5       | João Góes            |
+| Colocar logo na tela de login                      | Concluído    | 2       | João Suzuki          |
+| Criar botão de login/limpar seleção                | Concluído    | 2       | Pedro Silva          |
+| Criar inputs na tela de login                      | Concluído    | 2       | Pedro Silva          |
+| Criar protótipo do CRUD                            | Concluído    | 13      | Avya Alex            |
 
 ## ⭐ MVP
 

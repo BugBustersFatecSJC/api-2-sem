@@ -25,21 +25,21 @@
 | Terminar página analytics                           | Concluído    | 5       | Victor Bessa    |
 | Revisão de componentes                              | Concluído    | 8       | Davi Marinho    |
 | Revisão front end                                   | Concluído    | 8       | Davi marinho    |
-| Página StockMovements                               | Concluído    | 20      | Davi Marinho    |
-| Página buyandsell                                   | Concluído    | 20      | Victor Bessa    |
-| Verificar lógica de setor e relacionamento com lotes| Concluído    | 2       | João Góes       |
+| Página StockMovements                               | Concluído    | 21      | Davi Marinho    |
+| Página buyandsell                                   | Concluído    | 21      | Victor Bessa    |
+| Verificar lógica de setor e relacionamento com lotes| Concluído    | 3       | João Góes       |
 | Atualizar os controladores relacionados a produtos  | Concluído    | 8       | Carlos Intrieri  |
 | Botão de logout                                     | Concluído    | 2       | Carlos Intrieri  |
 | Mandar BD pra RDS                                   | Concluído    | 8       | Gabriel Guimarães	 |
 | Revisar reenvio de imagens                          | Concluído    | 5       | Avya Alex       |
-| Front página de login                               | Concluído    | 2       | Gabriel Guimarães  |
+| Front página de login                               | Concluído    | 3       | Gabriel Guimarães  |
 | Mudar botões da sidebar                             | Concluído    | 5       | Victor Bessa    |
 | Página de lotes                                     | Concluído    | 3       | Daniel Piloto   |
 | Revisar página de fornecedores                      | Concluído    | 8       | Avya Alex       |
 | Revisar página de setores                           | Concluído    | 5       | Avya Alex       |
-| Alterar front das páginas Setores, Lotes e fornecedores | Concluído | 20      | João Suzuki     |
+| Alterar front das páginas Setores, Lotes e fornecedores | Concluído | 21      | João Suzuki     |
 | Separar funcionalidades                             | Concluído    | 5       | Gabriel Guimarães  |
-| Atualizar README principal, do front e do back      | Concluído    | 1       | João Góes       |
-| Atualizar slide para apresentação                   | Concluído    | 1       | João Góes       |
+| Atualizar README principal, do front e do back      | Concluído    | 2       | João Góes       |
+| Atualizar slide para apresentação                   | Concluído    | 2       | João Góes       |
 | Completar CRUD de usuários (Deletar e editar)       | Concluído    | 5       | Gabriel Guimarães |
-| Atualizar os branchs referenciados pela main        | Concluído    | 1       | João Góes      |
+| Atualizar os branchs referenciados pela main        | Concluído    | 3       | João Góes      |

@@ -17,8 +17,8 @@
 | Atualizar tabelas existentes                        | Concluído    | 8       | Davi Marinho         |
 | AWS: Upload de BD                                   | Concluído    | 2       | Gabriel Guimarães    |
 | Criar cadastro de usuário                           | Concluído    | 13      | Carlos Intrieri      |
-| Criar página de Compra/Venda (Back End)             | Concluído    | 20      | Daniel Piloto        |
-| Criar página de Compra/Venda (Front End)            | Concluído    | 20      | Victor Bessa         |
+| Criar página de Compra/Venda (Back End)             | Concluído    | 21      | Daniel Piloto        |
+| Criar página de Compra/Venda (Front End)            | Concluído    | 21      | Victor Bessa         |
 | Diferenciar nível de acesso                         | Concluído    | 2       | Carlos Intrieri      |
 | Funcionalidade de busca                             | Concluído    | 5       | Gabriel Guimarães    |
 | Funcionalidade de filtro de categoria               | Concluído    | 8       | Avya Alex            |
@@ -26,12 +26,12 @@
 | Gráfico da movimentação: Sistema de Redirecionamento | Concluído   | 5       | Victor Bessa         |
 | Lógica para checar se é o primeiro login            | Concluído    | 8       | Gabriel Guimarães    |
 | Login: Criação da rota de recebimento               | Concluído    | 5       | Carlos Intrieri      |
-| Relatório geral de movimentação (Back End)          | Concluído    | 6       | João Góes            |
+| Relatório geral de movimentação (Back End)          | Concluído    | 5       | João Góes            |
 | Relatório geral de movimentação (Front End)         | Concluído    | 13      | João Góes            |
 | Salvar imagens no BD                                | Concluído    | 8       | João Suzuki          |
-| Adicionar detalhes faltando nos produtos            | Concluído    | 10      | Davi Marinho         |
+| Adicionar detalhes faltando nos produtos            | Concluído    | 13      | Davi Marinho         |
 | Gráfico da movimentação: Filtragem de Dados         | Concluído    | 13      | João Suzuki          |
-| Gráfico da movimentação: Renderização               | Concluído    | 10      | Victor Bessa         |
+| Gráfico da movimentação: Renderização               | Concluído    | 13      | Victor Bessa         |
 | Implementar funcionalidades perdidas do CRUD de Categoria | Concluído | 5       | João Suzuki       |
 | Implementar funcionalidades perdidas do CRUD de Produto | Concluído | 2       | Daniel Piloto       |
 | Proteger as rotas                                   | Concluído    | 13      | Pedro Prevides       |
