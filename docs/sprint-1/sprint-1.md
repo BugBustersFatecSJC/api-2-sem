@@ -23,6 +23,6 @@
 | Criar inputs na tela de login                      | Concluído    | 1       | Pedro Silva          |
 | Criar protótipo do CRUD                            | Concluído    | 16      | Avya Alex            |
 
-## MVP
+## ⭐ MVP
 
 <img src="./mvp-sprint-1.gif">

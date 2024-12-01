@@ -32,6 +32,6 @@
 | Verificar funcionalidades limitadas por cargo   | Concluído    | 8       | Carlos Intrieri    |
 | Página de perfil                                | Concluído    | 8       | João Suzuki        |
 
-## MVP
+## ⭐ MVP
 
 <img src="./mvp-sprint-4.gif">

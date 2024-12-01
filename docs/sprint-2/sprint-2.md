@@ -35,7 +35,3 @@
 | Implementar funcionalidades perdidas do CRUD de Categoria | Concluído | 5       | João Suzuki       |
 | Implementar funcionalidades perdidas do CRUD de Produto | Concluído | 2       | Daniel Piloto       |
 | Proteger as rotas                                   | Concluído    | 13      | Pedro Prevides       |
-
-## MVP
-
-<img src="./mvp-sprint-2.gif">

@@ -43,7 +43,3 @@
 | Atualizar slide para apresentação                   | Concluído    | 1       | João Góes       |
 | Completar CRUD de usuários (Deletar e editar)       | Concluído    | 5       | Gabriel Guimarães |
 | Atualizar os branchs referenciados pela main        | Concluído    | 1       | João Góes      |
-
-## MVP
-
-<img src="./mvp-sprint-3.gif">
