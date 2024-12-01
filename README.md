@@ -42,8 +42,8 @@ O cliente enfrenta dificuldades em gerenciar o estoque de maneira eficiente, com
 |:--:|:----------:|:-------------------|
 | 01 | 29/09/2024 | [✅ Concluída](./docs/sprint-1/sprint-1.md) |
 | 02 | 20/10/2024 | [✅ Concluída](./docs/sprint-2/sprint-2.md) |
-| 03 | 10/11/2024 | 🔄 Em andamento... |
-| 04 | 01/12/2024 | 🔄 Não Iniciada |
+| 03 | 10/11/2024 | [✅ Concluída](./docs/sprint-3/sprint-3.md) |
+| 04 | 01/12/2024 | [✅ Concluída](./docs/sprint-4/sprint-4.md) |
 
 → [⬆️ Voltar ao topo](#top)
 
@@ -115,7 +115,7 @@ O cliente enfrenta dificuldades em gerenciar o estoque de maneira eficiente, com
 | Carlos Intrieri | Dev Team | [GitHub](https://github.com/carlosintrieri) | [LinkedIn](https://www.linkedin.com/in/carlosintrieri) |
 | Daniel Piloto | Dev Team | [GitHub](https://github.com/danprsp) | [LinkedIn](https://www.linkedin.com/in/daniel-piloto-98b717226/) |
 | Davi Marinho | Dev Team | [GitHub](https://github.com/DMBMz) | [LinkedIn](https://www.linkedin.com/in/davi-miguel-a90821214/)|
-| Gabriel Guimaraes | Dev Team | [GitHub](https://github.com/gabrielbguimaraes) | [LinkedIn](https://www.linkedin.com/in/gabriel-g-854017138?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| Gabriel Guimarães | Dev Team | [GitHub](https://github.com/gabrielbguimaraes) | [LinkedIn](https://www.linkedin.com/in/gabriel-g-854017138?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | João Suzuki | Dev Team | [GitHub](https://github.com/joaosuzuki98) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-suzuki-6a2b02192/) |
 | Victor Bessa | Dev Team | [GitHub](https://github.com/victordanielrb) | [LinkedIn](https://www.linkedin.com/in/victor-daniel-ramos-bessa-1436a3215/) |
 
