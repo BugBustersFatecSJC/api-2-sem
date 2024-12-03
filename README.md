@@ -5,9 +5,11 @@
 ![banner](./img/banner.png)
 
 <p align="center">
-    <a href="#about">📖 Sobre</a>  &nbsp |&nbsp &nbsp  
+    <a href="#about">📖 Sobre</a>  &nbsp |&nbsp &nbsp 
+    <a href="#problems">⚠️ Problemas do Cliente</a>  &nbsp |&nbsp &nbsp 
     <a href="#entrega">🚀 Entregas</a>  &nbsp |&nbsp &nbsp  
     <a href="#backlog">📋 Backlog / User Stories</a> &nbsp |&nbsp &nbsp  
+    <a href="#mvp">⭐ MVP</a>  &nbsp |&nbsp &nbsp
     <a href="#tech">💻 Tecnologias</a>  &nbsp |&nbsp &nbsp 
     <a href="https://github.com/BugBustersFatecSJC/inv.sort/tree/main/docs">📄 Docs</a>  &nbsp |&nbsp &nbsp 
     <a href="#team">👥 Equipe</a>
@@ -28,6 +30,8 @@ Status do Projeto: **✅Concluído**
 
 <br />
 
+<span id="problems">
+
 ## ⚠️ Problemas do Cliente
 
 O cliente enfrenta dificuldades em gerenciar o estoque de maneira eficiente, com problemas no registro de movimentações e controle de produtos, o que gera inconsistências e falta de visibilidade nos níveis de estoque. Além disso, a ausência de relatórios atualizados dificulta a tomada de decisões estratégicas e o planejamento adequado, impactando diretamente a operação e o atendimento às demandas.
@@ -44,6 +48,8 @@ O cliente enfrenta dificuldades em gerenciar o estoque de maneira eficiente, com
 | 02 | 20/10/2024 | [✅ Concluída](./docs/sprint-2/sprint-2.md) |
 | 03 | 10/11/2024 | [✅ Concluída](./docs/sprint-3/sprint-3.md) |
 | 04 | 01/12/2024 | [✅ Concluída](./docs/sprint-4/sprint-4.md) |
+
+<br />
 
 → [⬆️ Voltar ao topo](#top)
 
@@ -69,13 +75,21 @@ O cliente enfrenta dificuldades em gerenciar o estoque de maneira eficiente, com
 | 12 | 🟠 Média | Como administrador, eu quero acessar o histórico de compras e auditoria para verificar conformidade e integridade dos registros. | 7 | 4 | Transparência e rastreabilidade |
 | 13 | 🟡 Baixa | Como administrador, eu quero um guia de instalação para instalar o sistema em diferentes ambientes. | 3 | 4 | Flexibilidade na Implementação do Sistema |
 
+<br />
+
 → [⬆️ Voltar ao topo](#top)
 
 <br />
 
+<span id="mvp">
+
 ## ⭐ MVP
 
 <img src="./mvp.gif">
+
+<br />
+
+→ [⬆️ Voltar ao topo](#top)
 
 <br />
 
@@ -124,5 +138,7 @@ O cliente enfrenta dificuldades em gerenciar o estoque de maneira eficiente, com
 | Gabriel Guimarães | Dev Team | [GitHub](https://github.com/gabrielbguimaraes) | [LinkedIn](https://www.linkedin.com/in/gabriel-g-854017138?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | João Suzuki | Dev Team | [GitHub](https://github.com/joaosuzuki98) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-suzuki-6a2b02192/) |
 | Victor Bessa | Dev Team | [GitHub](https://github.com/victordanielrb) | [LinkedIn](https://www.linkedin.com/in/victor-daniel-ramos-bessa-1436a3215/) |
+
+<br />
 
 → [⬆️ Voltar ao topo](#top)
