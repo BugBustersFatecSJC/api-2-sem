@@ -22,7 +22,3 @@
 | Criar botão de login/limpar seleção                | Concluído    | 2       | Pedro Silva          |
 | Criar inputs na tela de login                      | Concluído    | 2       | Pedro Silva          |
 | Criar protótipo do CRUD                            | Concluído    | 13      | Avya Alex            |
-
-## ⭐ MVP
-
-<img src="./mvp-sprint-1.gif">
